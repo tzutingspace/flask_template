@@ -2,7 +2,7 @@
 
 ### Setup
 - Modify `template.py`
-- Run `sh init_setup.sh` or  `source init_setup.sh`  
+- Run `sh init_setup.sh`
 
 ### Notes
 來源文章是用 venv 當作 virtual environment 管理, 我改為用 conda 來管理
