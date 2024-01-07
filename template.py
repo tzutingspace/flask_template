@@ -34,6 +34,7 @@ LIST_FILES = [
     "src/routes.py",
     # "src/utils.py",
     "src/utils/__init__.py",
+    "tests/__init__.py",
 ]
 
 for file_path in LIST_FILES:

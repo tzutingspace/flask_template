@@ -28,6 +28,7 @@
 4. models
 5. services
 6. utils (個人會放一個 folder)
+7. tests (測試用)
 
 #### 通常裡面會有 以下 file
 6. src/routes.py 
