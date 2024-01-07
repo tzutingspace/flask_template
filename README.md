@@ -18,7 +18,7 @@
 4. app.py (Application starting point)
 5. README.md
 6. init_setup.sh (Automation script for setting up environment)
-7. template.py (Automation script to create folders and files in it) -> 啟動專案後 就不需要了
+~~7. template.py (Automation script to create folders and files in it) -> 啟動專案後 就不需要了~~
 
 #### 主要 app 放在 src (或是你可以取你想要的名字, 常見的有 app, api, ...)
 #### 通常裡面會有 以下 folder
@@ -31,7 +31,7 @@
 
 #### 通常裡面會有 以下 file
 6. src/routes.py 
-7. src/utils.py (小型專案, 原文作者用一個 file)
+~~7. src/utils.py (小型專案, 原文作者用一個 file)~~
 
 
 
