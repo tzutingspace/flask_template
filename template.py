@@ -32,7 +32,8 @@ LIST_FILES = [
     # "src/services/jwt_service.py",
     # routes and utils
     "src/routes.py",
-    "src/utils.py",
+    # "src/utils.py",
+    "src/utils/__init__.py",
 ]
 
 for file_path in LIST_FILES:
